@@ -50,7 +50,7 @@ This project implements a microservice for sentiment analysis on product reviews
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishibrainerhub/llm-microservice-kubernetes-helm.git
+   git clone https://github.com/riishiiiii/llm-microservice-kubernetes-helm
    cd llm-microservice-kubernetes-helm
    ```
 
